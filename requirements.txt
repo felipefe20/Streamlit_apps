@@ -1,0 +1,5 @@
+streamlit==1.2.0
+streamlit_webrtc==0.31.1
+pandas
+numpy
+nltk
